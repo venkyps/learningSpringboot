@@ -1,0 +1,459 @@
+2025-06-22 15:16:00 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 17676 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 15:16:00 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 15:16:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 15:16:01 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 15:16:01 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 15:16:01 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 15:16:01 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 436 ms
+2025-06-22 15:16:01 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 15:16:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 15:16:01 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.849 seconds (process running for 616.301)
+2025-06-22 15:16:01 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 15:16:02 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2025-06-22 15:16:02 [Thread-7] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 15:16:03 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 15:16:03 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 17676 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 15:16:03 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 15:16:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 15:16:03 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 15:16:03 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 15:16:03 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 15:16:03 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 368 ms
+2025-06-22 15:16:03 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 15:16:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 15:16:03 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.536 seconds (process running for 618.606)
+2025-06-22 15:16:03 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 15:16:06 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.SpringBootLearningApplicationTests]: SpringBootLearningApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 15:16:06 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.SpringBootLearningApplicationTests
+2025-06-22 15:16:06 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 15:16:06 [main] INFO  c.s.l.S.SpringBootLearningApplicationTests - Starting SpringBootLearningApplicationTests using Java 17.0.10 with PID 5844 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 15:16:06 [main] INFO  c.s.l.S.SpringBootLearningApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 15:16:08 [main] INFO  c.s.l.S.SpringBootLearningApplicationTests - Started SpringBootLearningApplicationTests in 2.049 seconds (process running for 3.907)
+2025-06-22 15:19:45 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-22 15:19:45 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-06-22 15:19:45 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-06-22 15:21:45 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 15:21:45 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 15:21:52 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 14752 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 15:21:52 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 15:21:52 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-06-22 15:21:52 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-06-22 15:21:54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 15:21:54 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:21:54 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 15:21:54 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 15:21:54 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 15:21:54 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1627 ms
+2025-06-22 15:21:54 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 15:21:54 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:21:54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 15:21:54 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 3.022 seconds (process running for 3.945)
+2025-06-22 15:22:00 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-22 15:22:00 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-06-22 15:22:00 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-06-22 15:24:44 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 15:24:45 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 15:24:47 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 7496 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 15:24:47 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 15:24:47 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 15:24:47 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-06-22 15:24:47 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-06-22 15:24:49 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 15:24:49 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:24:49 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 15:24:49 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 15:24:49 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 15:24:49 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1532 ms
+2025-06-22 15:24:50 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 15:24:50 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:24:50 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 15:24:50 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 2.957 seconds (process running for 3.875)
+2025-06-22 15:25:01 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-22 15:25:01 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-06-22 15:25:01 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-06-22 15:25:01 [http-nio-8080-exec-1] DEBUG c.s.l.S.controller.HelloController - Inside helloController
+2025-06-22 15:28:50 [http-nio-8080-exec-4] DEBUG c.s.l.S.controller.HelloController - Inside helloController
+2025-06-22 15:29:17 [http-nio-8080-exec-5] DEBUG c.s.l.S.controller.HelloController - Inside helloController
+2025-06-22 15:30:56 [http-nio-8080-exec-8] DEBUG c.s.l.S.controller.HelloController - Inside helloController
+2025-06-22 15:31:02 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 15:31:02 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 15:31:08 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18364 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 15:31:08 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 15:31:08 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 15:31:08 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-06-22 15:31:08 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-06-22 15:31:10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 15:31:10 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:31:10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 15:31:10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 15:31:10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 15:31:10 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1768 ms
+2025-06-22 15:31:11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 15:31:11 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:31:11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 15:31:11 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 3.288 seconds (process running for 4.897)
+2025-06-22 15:31:15 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-22 15:31:15 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-06-22 15:31:15 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-06-22 15:31:15 [http-nio-8080-exec-1] DEBUG c.s.l.S.controller.HelloController - Inside helloController test 1
+2025-06-22 15:31:25 [http-nio-8080-exec-2] DEBUG c.s.l.S.controller.HelloController - Inside helloController test 1
+2025-06-22 15:31:37 [http-nio-8080-exec-3] DEBUG c.s.l.S.controller.HelloController - Inside helloController test 1
+2025-06-22 15:31:41 [http-nio-8080-exec-4] DEBUG c.s.l.S.controller.HelloController - Inside helloController test 1
+2025-06-22 15:31:49 [http-nio-8080-exec-5] DEBUG c.s.l.S.controller.HelloController - Inside helloController test 1
+2025-06-22 15:31:54 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 15:31:54 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 15:31:59 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 15:31:59 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 15:31:59 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 15:31:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-06-22 15:31:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-06-22 15:32:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 15:32:01 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:32:01 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 15:32:01 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 15:32:01 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 15:32:01 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1723 ms
+2025-06-22 15:32:01 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 15:32:01 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 15:32:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 15:32:01 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 3.263 seconds (process running for 4.371)
+2025-06-22 15:32:04 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-06-22 15:32:04 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-06-22 15:32:04 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-06-22 15:32:04 [http-nio-8080-exec-1] DEBUG c.s.l.S.controller.HelloController - Inside helloController test
+2025-06-22 16:01:44 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 2 deletions, 1 modification)
+2025-06-22 16:01:44 [Thread-5] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:01:44 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:44 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:01:44 [Thread-5] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:44 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:01:44 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:01:44 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:01:44 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:01:44 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:44 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:01:44 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:01:44 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:01:44 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 467 ms
+2025-06-22 16:01:45 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:01:45 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:45 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:01:45 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.694 seconds (process running for 1787.59)
+2025-06-22 16:01:45 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:01:47 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2025-06-22 16:01:47 [Thread-7] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:01:47 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:47 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:01:47 [Thread-7] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:47 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:01:47 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:01:47 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:01:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:01:48 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:48 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:01:48 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:01:48 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:01:48 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 358 ms
+2025-06-22 16:01:48 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:01:48 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:01:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:01:48 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.544 seconds (process running for 1790.93)
+2025-06-22 16:01:48 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:01:52 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:01:52 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:01:52 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:01:53 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 10444 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:01:53 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:01:53 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:01:56 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:01:56 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:01:56 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-06-22 16:01:56 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.355 seconds (process running for 5.503)
+2025-06-22 16:06:27 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:06:27 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:06:27 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:06:28 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 8644 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:06:28 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:06:28 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:06:31 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:06:31 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:06:31 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-06-22 16:06:31 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.23 seconds (process running for 5.102)
+2025-06-22 16:06:54 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:06:54 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:06:54 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:06:55 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 9172 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:06:55 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:06:55 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:06:58 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:06:58 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:06:58 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 4 ms
+2025-06-22 16:06:58 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.337 seconds (process running for 5.506)
+2025-06-22 16:10:53 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:10:54 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:10:54 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:10:54 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 20696 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:10:54 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:10:54 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:10:57 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:10:57 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:10:57 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 3 ms
+2025-06-22 16:10:57 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.361 seconds (process running for 5.179)
+2025-06-22 16:18:09 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-06-22 16:18:09 [Thread-11] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:18:09 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:09 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:18:09 [Thread-11] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:09 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:18:09 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:18:09 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:18:09 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:18:09 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:09 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:18:09 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:18:09 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:18:09 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 382 ms
+2025-06-22 16:18:09 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:18:09 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:09 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:18:09 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.561 seconds (process running for 2772.367)
+2025-06-22 16:18:09 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:18:11 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-06-22 16:18:11 [Thread-15] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:18:11 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:11 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:18:11 [Thread-15] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:11 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:18:11 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:18:11 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:18:12 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:18:12 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:12 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:18:12 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:18:12 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:18:12 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 484 ms
+2025-06-22 16:18:12 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:18:12 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:18:12 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:18:12 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.707 seconds (process running for 2774.819)
+2025-06-22 16:18:12 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:18:13 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:18:14 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:18:14 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:18:14 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 11848 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:18:14 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:18:14 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:18:17 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:18:17 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:18:17 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-06-22 16:18:17 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.224 seconds (process running for 5.314)
+2025-06-22 16:18:42 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:18:43 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:18:43 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:18:43 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 9536 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:18:43 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:18:43 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:18:46 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:18:46 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:18:46 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-06-22 16:18:46 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.281 seconds (process running for 5.262)
+2025-06-22 16:19:12 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:19:12 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:19:12 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:19:13 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 16796 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:19:13 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:19:13 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:19:16 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:19:16 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:19:16 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 3 ms
+2025-06-22 16:19:16 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.195 seconds (process running for 5.173)
+2025-06-22 16:19:54 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:19:54 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:19:55 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:19:55 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 8740 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:19:55 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:19:55 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:19:58 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:19:58 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:19:58 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-06-22 16:19:58 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.266 seconds (process running for 5.159)
+2025-06-22 16:23:42 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 2 deletions, 1 modification)
+2025-06-22 16:23:42 [Thread-19] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:23:42 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:43 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:23:43 [Thread-19] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:43 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:23:43 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:23:43 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:23:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:23:43 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:43 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:23:43 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:23:43 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:23:43 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 504 ms
+2025-06-22 16:23:43 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:23:43 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:23:43 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.676 seconds (process running for 3106.267)
+2025-06-22 16:23:43 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:23:45 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2025-06-22 16:23:45 [Thread-23] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:23:45 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:45 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:23:45 [Thread-23] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:45 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:23:45 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:23:45 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:23:46 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:23:46 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:46 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:23:46 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:23:46 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:23:46 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 434 ms
+2025-06-22 16:23:46 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:23:46 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:23:46 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:23:46 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.611 seconds (process running for 3108.68)
+2025-06-22 16:23:46 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:23:48 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:23:49 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:23:49 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:23:49 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 11156 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:23:49 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:23:49 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:23:52 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:23:52 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:23:52 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-06-22 16:23:52 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.168 seconds (process running for 5.173)
+2025-06-22 16:23:52 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.SpringBootLearningApplicationTests]: SpringBootLearningApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:23:52 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.SpringBootLearningApplicationTests
+2025-06-22 16:23:52 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:23:52 [main] INFO  c.s.l.S.SpringBootLearningApplicationTests - Starting SpringBootLearningApplicationTests using Java 17.0.10 with PID 11156 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:23:52 [main] DEBUG c.s.l.S.SpringBootLearningApplicationTests - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:23:52 [main] INFO  c.s.l.S.SpringBootLearningApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:23:53 [main] INFO  c.s.l.S.SpringBootLearningApplicationTests - Started SpringBootLearningApplicationTests in 0.8 seconds (process running for 6.268)
+2025-06-22 16:26:00 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-06-22 16:26:00 [Thread-27] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:26:00 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:26:00 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:26:00 [Thread-27] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:26:00 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:26:00 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:26:00 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:26:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:26:00 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:26:00 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:26:00 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:26:00 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:26:00 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 283 ms
+2025-06-22 16:26:00 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:26:00 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:26:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:26:00 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.441 seconds (process running for 3243.298)
+2025-06-22 16:26:00 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:26:03 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:26:03 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:26:03 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:26:04 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 11680 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:26:04 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:26:04 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:26:05 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:26:05 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:26:05 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-06-22 16:26:05 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 1.874 seconds (process running for 3.728)
+2025-06-22 16:26:06 [main] DEBUG c.s.l.S.controller.HelloController - Inside helloController test
+2025-06-22 16:26:24 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:26:25 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:26:25 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:26:25 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 15760 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:26:25 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:26:25 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:26:27 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:26:27 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:26:27 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-06-22 16:26:27 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 1.896 seconds (process running for 3.791)
+2025-06-22 16:26:28 [main] DEBUG c.s.l.S.controller.HelloController - Inside helloController test
+2025-06-22 16:26:36 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:26:37 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:26:37 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:26:38 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 14320 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:26:38 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:26:38 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:26:39 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:26:40 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:26:40 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:26:40 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:26:40 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:26:40 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-06-22 16:26:40 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 3.136 seconds (process running for 5.34)
+2025-06-22 16:26:41 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 10024 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:26:41 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:26:41 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:26:43 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:26:43 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:26:43 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 3 ms
+2025-06-22 16:26:43 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 2.868 seconds (process running for 5.569)
+2025-06-22 16:26:44 [main] DEBUG c.s.l.S.controller.HelloController - Inside helloController test
+2025-06-22 16:26:45 [main] DEBUG c.s.l.S.controller.HelloController - Inside helloController test
+2025-06-22 16:32:37 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2025-06-22 16:32:37 [Thread-31] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:32:37 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:32:38 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:32:38 [Thread-31] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:32:38 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:32:38 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:32:38 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:32:38 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:32:38 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:32:38 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:32:38 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:32:38 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:32:38 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 285 ms
+2025-06-22 16:32:38 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:32:38 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:32:38 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:32:38 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.432 seconds (process running for 3641.185)
+2025-06-22 16:32:38 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:33:36 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-06-22 16:33:36 [Thread-35] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 16:33:36 [tomcat-shutdown] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:33:36 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-06-22 16:33:36 [Thread-35] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:33:36 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Starting SpringBootLearningApplication using Java 17.0.10 with PID 18124 (D:\Code\SpringBootLearning\target\classes started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:33:36 [restartedMain] DEBUG c.s.l.S.SpringBootLearningApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:33:36 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:33:36 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-06-22 16:33:36 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:33:36 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-06-22 16:33:36 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.42]
+2025-06-22 16:33:37 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-06-22 16:33:37 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 362 ms
+2025-06-22 16:33:37 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-06-22 16:33:37 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-06-22 16:33:37 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-06-22 16:33:37 [restartedMain] INFO  c.s.l.S.SpringBootLearningApplication - Started SpringBootLearningApplication in 0.547 seconds (process running for 3699.59)
+2025-06-22 16:33:37 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-06-22 16:33:37 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:33:37 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:33:38 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:33:38 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 20764 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:33:38 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:33:38 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:33:39 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:33:39 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:33:39 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-06-22 16:33:39 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 1.877 seconds (process running for 4.089)
+2025-06-22 16:33:41 [main] DEBUG c.s.l.S.controller.HelloController - Inside helloController test
+2025-06-22 16:34:11 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.spring.learning.SpringBootLearning.controller.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-22 16:34:12 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.spring.learning.SpringBootLearning.SpringBootLearningApplication for test class com.spring.learning.SpringBootLearning.controller.HelloControllerTest
+2025-06-22 16:34:12 [main] INFO  o.s.b.d.r.RestartApplicationListener - Restart disabled due to context in which it is running
+2025-06-22 16:34:12 [main] INFO  c.s.l.S.c.HelloControllerTest - Starting HelloControllerTest using Java 17.0.10 with PID 15932 (started by venka in D:\Code\SpringBootLearning)
+2025-06-22 16:34:12 [main] DEBUG c.s.l.S.c.HelloControllerTest - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-22 16:34:12 [main] INFO  c.s.l.S.c.HelloControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-06-22 16:34:14 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-06-22 16:34:14 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-06-22 16:34:14 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-06-22 16:34:14 [main] INFO  c.s.l.S.c.HelloControllerTest - Started HelloControllerTest in 1.81 seconds (process running for 3.651)
+2025-06-22 16:34:15 [main] DEBUG c.s.l.S.controller.HelloController - Inside helloController test
+2025-06-22 20:21:15 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-06-22 20:21:15 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
