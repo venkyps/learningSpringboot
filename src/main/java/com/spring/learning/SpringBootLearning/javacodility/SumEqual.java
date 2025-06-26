@@ -23,6 +23,6 @@ public class SumEqual {
     }
 
     public static void main(String[] args) {
-        System.out.println("value of 37 :: "+solution(37));
+        System.out.println("value of 734 :: "+solution(734));
     }
 }
