@@ -16,6 +16,9 @@ public class RotatingStringValue {
     }
 
     public static void main(String[] args) {
-        System.out.println("value of the string rotation " + solution("abab"));
+        //abbaa should return 3
+        //aaaa should return 4
+        //abab should return 0
+        System.out.println("value of the string rotation " + solution("aaaa"));
     }
 }

@@ -26,6 +26,7 @@ public class DeleteMinimumCharacters {
     }
 
     public static void main(String[] args) {
+        // BAAABAB to AAABB
         System.out.println("value of the deletion  "+minimumCharacterDeletion("BAAABAB"));
     }
 }
